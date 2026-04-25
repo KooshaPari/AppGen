@@ -1,12 +1,81 @@
 # AppGen
 
-**STRICTLY DO NOT DELETE NOR UNARCHIVE**
-*Personal Project*
+**ARCHIVED PROJECT - DO NOT DELETE OR UNARCHIVE**  
+*Historical Reference: React Native Boilerplate*
+
+Legacy React Native boilerplate for utility-style mobile applications. Preserved as historical reference for mobile development patterns and learning materials.
+
+## Project Status
+
+**Status**: ARCHIVED  
+**Reason**: Legacy project from early React Native exploration  
+**Maintenance**: None — historical reference and learning resource only  
+**Note**: Code quality reflects the exploratory phase and is not production-grade
+
+## Original Purpose
+
+AppGen was an early-stage React Native boilerplate project designed to streamline rapid prototyping of utility-style mobile applications. It explored modular component architecture and Expo-managed workflow patterns.
+
+## Technology Stack (Historical)
+
+- **Language**: JavaScript (React Native)
+- **Framework**: Expo (managed workflow)
+- **Build**: Metro bundler
+- **Key Dependencies**: React Native, Babel
+- **Platforms**: iOS, Android
+
+## Historical Features
+
+- Modular component-based architecture
+- Utility-focused application patterns
+- Expo managed workflow (no native code)
+- Theme support (dark/light modes)
+- Reusable component system
+- Asset management (images, fonts)
+- Navigation patterns
+
+## Project Structure
+
+```
+AppGen/
+├── Components/             # Reusable UI components
+│   └── [component modules]/
+├── App.js                  # Application entry point
+├── app.json                # Expo configuration
+├── assets/                 # Static resources
+│   ├── images/
+│   └── fonts/
+├── dark.json               # Dark theme tokens
+├── light.json              # Light theme tokens
+└── package.json            # Dependencies
+```
+
+## Learning Resources
+
+This project contains patterns and examples for:
+- React Native component hierarchy
+- Modular mobile application structure
+- Expo-based development workflow
+- Cross-platform mobile UI patterns
+
+## Related Projects
+
+Modern alternatives and active projects:
+- **[KDesktopVirt](../KDesktopVirt)** — Desktop virtualization
+- **[KVirtualStage](../KVirtualStage)** — Virtual environments
+- **[bare-cua](../bare-cua)** — Automation framework
+
+## Documentation
+
+- **CLAUDE.md** — Historical governance (reference only)
+- **No active development** — Preserved as-is
+
+## License
+
+MIT (Historical)
 
 ---
 
-Application generator for rapid prototyping. For use as a boilerplate for future apps, suited mostly for utility style apps.
-
-This was an incomplete project from a client that got me started with React Native. I'm chronically lazy and love to have my programs built up as modules that I can just "customize", so I'm now converting this into a sort of boilerplate to simplify future projects and help me get a better hand in RN as well as general mobile development.
-
-The code is old and was cobbled together. This project is archived and preserved for historical reference only.
+**Archived**: Early 2024  
+**Preserved for**: Historical research and mobile development learning  
+**Status**: Do not use for new projects — see modern alternatives above
