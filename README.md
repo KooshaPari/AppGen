@@ -72,7 +72,7 @@ Modern alternatives and active projects:
 
 ## License
 
-MIT (Historical)
+MIT — see [LICENSE](./LICENSE).
 
 ---
 
