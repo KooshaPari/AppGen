@@ -1,42 +1,18 @@
-<<<<<<< HEAD
 name: TruffleHog Secrets Scan
-=======
-name: Trufflehog
-
->>>>>>> e535d8e (chore: bootstrap trufflehog.yml)
 on:
   push:
     branches: [main]
   pull_request:
     branches: [main]
-<<<<<<< HEAD
 permissions:
   contents: read
-=======
-
-permissions:
-  contents: read
-
->>>>>>> e535d8e (chore: bootstrap trufflehog.yml)
 jobs:
   trufflehog:
     runs-on: ubuntu-latest
     steps:
-<<<<<<< HEAD
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
       - uses: trufflesecurity/trufflehog@main
         with:
           extra_args: --results=verified,unknown
-=======
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - name: TruffleHog OSS
-        uses: trufflesecurity/trufflehog@main
-        with:
-          path: ./
-          base_depth: 1
->>>>>>> e535d8e (chore: bootstrap trufflehog.yml)
