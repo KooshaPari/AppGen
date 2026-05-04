@@ -58,6 +58,15 @@ This project contains patterns and examples for:
 - Expo-based development workflow
 - Cross-platform mobile UI patterns
 
+## Useful Scripts
+
+- `npm start` — start the Expo dev server
+- `npm run android` — launch Android build
+- `npm run ios` — launch iOS build
+- `npm run web` — start the web target
+- `npm run lint` — run ESLint
+- `npm run format` — format JavaScript and JSON files
+
 ## Related Projects
 
 Modern alternatives and active projects:
