@@ -79,3 +79,4 @@ MIT — see [LICENSE](./LICENSE).
 **Archived**: Early 2024  
 **Preserved for**: Historical research and mobile development learning  
 **Status**: Do not use for new projects — see modern alternatives above
+
