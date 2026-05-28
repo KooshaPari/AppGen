@@ -1,8 +1,11 @@
 name: Doc Links
+permissions:
+  contents: read
+  pull-requests: read
 on: [push, pull_request]
 jobs:
   links:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
       - run: echo "Doc link check (phenotype-tooling integration)"
