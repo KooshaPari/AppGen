@@ -1,3 +1,6 @@
+> **Work state:** ARCHIVED-CANDIDATE · **Progress:** `██░░░░░░░░ 15%`
+> Legacy React Native / Expo boilerplate, preserved as historical reference (owner mandate: DO NOT delete or unarchive). Not production-grade; 6 open Dependabot PRs are churn on a dead repo — consider closing them. · updated 2026-06-02
+
 # AppGen
 
 **ARCHIVED PROJECT - DO NOT DELETE OR UNARCHIVE**  
