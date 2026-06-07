@@ -10,6 +10,9 @@ on:
   pull_request:
     branches: [main, master]
   workflow_dispatch:
+permissions:
+  contents: read
+
 
 jobs:
   legacy-tooling-scan:
