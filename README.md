@@ -1,3 +1,14 @@
+## Work State
+
+| Field | Value |
+|---|---|
+| Last commit | 2026-06-06 21:28:45 -0700 |
+| Open issues | 0 |
+| Open PRs | 0 |
+| Focus | docs hygiene |
+
+Progress: ████████░░ 80%
+
 > **Work state:** ARCHIVED-CANDIDATE · **Progress:** `██░░░░░░░░ 15%`
 > Legacy React Native / Expo boilerplate, preserved as historical reference (owner mandate: DO NOT delete or unarchive). Not production-grade; 6 open Dependabot PRs are churn on a dead repo — consider closing them. · updated 2026-06-02
 
